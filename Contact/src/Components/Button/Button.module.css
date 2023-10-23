@@ -1,0 +1,29 @@
+.primaryBtn{
+    padding: 10px 18px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px; 
+    min-width: 220px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.secondBtn{
+    padding: 10px 18px;
+    border: 1px solid black;
+    color: black;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px; 
+    min-width: 220px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+}
+
